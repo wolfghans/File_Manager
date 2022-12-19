@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManagerConsoleAPI", "FileManagerConsoleAPI\FileManagerConsoleAPI.csproj", "{474532A7-D061-495F-AF82-CA105895A6B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManagerComandsList", "FileManagerComandsList\FileManagerComandsList.csproj", "{EF3AF60A-7394-454C-9BD2-BE8916B9B0DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{474532A7-D061-495F-AF82-CA105895A6B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474532A7-D061-495F-AF82-CA105895A6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474532A7-D061-495F-AF82-CA105895A6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474532A7-D061-495F-AF82-CA105895A6B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3AF60A-7394-454C-9BD2-BE8916B9B0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3AF60A-7394-454C-9BD2-BE8916B9B0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3AF60A-7394-454C-9BD2-BE8916B9B0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3AF60A-7394-454C-9BD2-BE8916B9B0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19BC7093-9778-4217-8C17-BF39C6FF4C18}
+	EndGlobalSection
+EndGlobal
